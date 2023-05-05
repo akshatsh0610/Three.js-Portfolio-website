@@ -1,8 +1,9 @@
-import React from 'react'
-
+import { Html } from '@react-three/drei'
+// import React from 'react'
+// import { Canvas } from '@react-three/fiber'
 const Loader = () => {
   return (
-    <div>Loader</div>
+   <Html></Html>
   )
 }
 
