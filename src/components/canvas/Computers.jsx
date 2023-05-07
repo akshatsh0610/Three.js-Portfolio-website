@@ -13,7 +13,7 @@ const Computers = ({isMobile}) => {
         position={[0,-3.25,-1.5]}
         rotation={[-0.01,-0.2,-0.1]}
       />
-      <spotLight position={[-20,50,10]} 
+      <spotLight position={isMobile ? [0,-3,-2.2] : [-20,50,10]} 
         angle={0.12}
         penumbra={1}
         intensity={1}
@@ -27,7 +27,7 @@ const Computers = ({isMobile}) => {
 const ComputersCanvas=()=>{
   const [isMobile,setIsMobile]=useState(false);
   useEffect(()=>{
-    const mediaQuery=window.matchMedia('max-width:500');
+    const mediaQuery=window.matchMedia('(max-width:500px)');
     setIsMobile(mediaQuery.matches);
     const handleMediaQueryChange=(event)=>{
       setIsMobile(event.matches);
