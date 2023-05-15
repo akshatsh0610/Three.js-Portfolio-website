@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import {
     mobile,
     backend,
@@ -10,14 +9,9 @@ import {
     css,
     reactjs,
     redux,
-    tailwind,
-    meta,
     starbucks,
-    tesla,
-    shopify,
     carrent,
-    jobit,
-    tripguide,
+    // eslint-disable-next-line no-unused-vars
     threejs,
   } from "../assets";
   
@@ -38,19 +32,19 @@ import {
   
   const services = [
     {
-      title: "Xyz",
+      title: "hrdfhdfcjdh",
       icon: web,
     },
     {
-      title: "Abc",
+      title: "rrjfjtf",
       icon: mobile,
     },
     {
-      title: "pqr",
+      title: "eryhtfh",
       icon: backend,
     },
     {
-      title: "tuv",
+      title: "etyrdhd",
       icon: creator,
     },
   ];
@@ -80,63 +74,60 @@ import {
       name: "Redux Toolkit",
       icon: redux,
     },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    }
+    
   ];
   
   const experiences = [
     {
-      title: "lhgr",
-      company_name: "hfihr",
+      title: "ughighsh",
+      company_name: "yedhff",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "xyz",
+      date: "tjfggh",
       points: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
       ],
     },
     {
-      title: "abdkhe",
-      company_name: "hrg",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "hrghf",
-      points: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      ],
-    },
-    {
-      title: "gjr",
-      company_name: "rjgljl",
-      icon: shopify,
+      title: "ughighsh",
+      company_name: "yedhff",
+      icon: starbucks,
       iconBg: "#383E56",
-      date: "jotjgo",
+      date: "tjfggh",
       points: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
       ],
     },
     {
-      title: "jgroj",
-      company_name: "jgjlf",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "gjofl",
+      title: "ughighsh",
+      company_name: "yedhff",
+      icon: starbucks,
+      iconBg: "#383E56",
+      date: "tjfggh",
       points: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
+      ],
+    },
+    {
+      title: "ughighsh",
+      company_name: "yedhff",
+      icon: starbucks,
+      iconBg: "#383E56",
+      date: "tjfggh",
+      points: [
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
       ],
     },
   ];
@@ -170,20 +161,20 @@ import {
   
   const projects = [
     {
-      name: "hgorhh",
+      name: "guufihsi",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
       tags: [
         {
-          name: "gfu",
+          name: "ihviuh",
           color: "blue-text-gradient",
         },
         {
-          name: "guihiehs",
+          name: "uihihf",
           color: "green-text-gradient",
         },
         {
-          name: "grfhi",
+          name: "ihiofhi",
           color: "pink-text-gradient",
         },
       ],
@@ -191,45 +182,45 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "rghih",
+      name: "guufihsi",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
       tags: [
         {
-          name: "uifhei",
+          name: "ihviuh",
           color: "blue-text-gradient",
         },
         {
-          name: "ifheih",
+          name: "uihihf",
           color: "green-text-gradient",
         },
         {
-          name: "fhhis",
+          name: "ihiofhi",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: carrent,
       source_code_link: "https://github.com/",
     },
     {
-      name: "ifhhe",
+      name: "guufihsi",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporhgihgsiojgeisjios",
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium",
       tags: [
         {
-          name: "hrif",
+          name: "ihviuh",
           color: "blue-text-gradient",
         },
         {
-          name: "fhhs",
+          name: "uihihf",
           color: "green-text-gradient",
         },
         {
-          name: "hfidih",
+          name: "ihiofhi",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: carrent,
       source_code_link: "https://github.com/",
     },
   ];
