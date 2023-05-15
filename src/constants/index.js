@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import {
     mobile,
     backend,
@@ -10,11 +11,6 @@ import {
     reactjs,
     redux,
     tailwind,
-    nodejs,
-    mongodb,
-    git,
-    figma,
-    docker,
     meta,
     starbucks,
     tesla,
@@ -42,19 +38,19 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Xyz",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Abc",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "pqr",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "tuv",
       icon: creator,
     },
   ];
@@ -87,84 +83,60 @@ import {
     {
       name: "Tailwind CSS",
       icon: tailwind,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
-    },
+    }
   ];
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "lhgr",
+      company_name: "hfihr",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "xyz",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "abdkhe",
+      company_name: "hrg",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "hrghf",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "gjr",
+      company_name: "rjgljl",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "jotjgo",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "jgroj",
+      company_name: "jgjlf",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "gjofl",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       ],
     },
   ];
@@ -198,20 +170,20 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "hgorhh",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       tags: [
         {
-          name: "react",
+          name: "gfu",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "guihiehs",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "grfhi",
           color: "pink-text-gradient",
         },
       ],
@@ -219,20 +191,20 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "rghih",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       tags: [
         {
-          name: "react",
+          name: "uifhei",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "ifheih",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "fhhis",
           color: "pink-text-gradient",
         },
       ],
@@ -240,20 +212,20 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "ifhhe",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       tags: [
         {
-          name: "nextjs",
+          name: "hrif",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "fhhs",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "hfidih",
           color: "pink-text-gradient",
         },
       ],
